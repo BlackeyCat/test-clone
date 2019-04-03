@@ -1,5 +1,5 @@
 # vue-admin-template
-'clone from jiachengpan thanks'
+'测试解决冲突'
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
 **Live demo:** http://panjiachen.github.io/vue-admin-template
